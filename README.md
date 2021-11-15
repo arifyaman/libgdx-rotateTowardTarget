@@ -1,5 +1,5 @@
 # libgdx-rotateTowardTarget
-Rotating a model instance towards point.
+Rotating a model instance towards a point.
 
 Using "rotateTowardTarget" on Matrix4. Used lerp implementation to make it smooth. Also threeDTemp library source code which is used for a start can be found inside the project.
 
